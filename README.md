@@ -8,4 +8,10 @@ This application allow you to pick randomly a film from your Letterboxd watchlis
 
 ## Screenshot
 
-![alt text](screenshot.png)
+- Loading page
+
+![alt text](readme_images/screenshot1.png)
+
+- Random pick
+
+![alt text](readme_images/screenshot2.png)
